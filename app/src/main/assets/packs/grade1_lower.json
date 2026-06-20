@@ -1,0 +1,42 @@
+{
+  "pack_id": "grade1_lower",
+  "grade": 1,
+  "is_upper": false,
+  "dimensions": {
+    "MATH": [{"level_id": "math_01", "questions": [
+      {"id":"m01_q01","type":"CHOICE","text":"36 + 24 = ?","image_res":null,"options":["50","58","60","62"],"answer_index":2,"hint":"先算个位：6+4=10，进1"},
+      {"id":"m01_q02","type":"CHOICE","text":"75 - 38 = ?","image_res":null,"options":["33","37","43","47"],"answer_index":1,"hint":"可以拆开算：75-30-8"},
+      {"id":"m01_q03","type":"CHOICE","text":"一打铅笔有12支，买了3打，共几支？","image_res":null,"options":["24","30","36","42"],"answer_index":2,"hint":"12×3=?"},
+      {"id":"m01_q04","type":"CHOICE","text":"48 ÷ 6 = ?","image_res":null,"options":["6","7","8","9"],"answer_index":2,"hint":"想想6的乘法表"},
+      {"id":"m01_q05","type":"CHOICE","text":"100以内最大的奇数是？","image_res":null,"options":["97","98","99","100"],"answer_index":2,"hint":"奇数是不能被2整除的数"}
+    ]}],
+    "LOGIC": [{"level_id": "logic_01", "questions": [
+      {"id":"l01_q01","type":"CHOICE","text":"所有的鸟都会飞，企鹅是鸟，所以企鹅？","image_res":null,"options":["会飞","不会飞","这个推理有问题","不确定"],"answer_index":2,"hint":"检查前提是否正确"},
+      {"id":"l01_q02","type":"CHOICE","text":"如果A>B，B>C，那么A和C的关系是？","image_res":null,"options":["A<C","A=C","A>C","无法判断"],"answer_index":2,"hint":"传递性规律"},
+      {"id":"l01_q03","type":"CHOICE","text":"数字1到10中，偶数的个数是？","image_res":null,"options":["4","5","6","7"],"answer_index":1,"hint":"2,4,6,8,10"},
+      {"id":"l01_q04","type":"CHOICE","text":"小红比小明重，小明比小亮重，小红比小亮？","image_res":null,"options":["轻","一样重","重","无法判断"],"answer_index":2,"hint":"传递比较"},
+      {"id":"l01_q05","type":"CHOICE","text":"今天是周五，3天后是周几？","image_res":null,"options":["周六","周日","周一","周二"],"answer_index":2,"hint":"5+3=8，8-7=1，周一"}
+    ]}],
+    "SPATIAL": [{"level_id": "spatial_01", "questions": [
+      {"id":"s01_q01","type":"CHOICE","text":"一个长方体有几个面？","image_res":null,"options":["4","5","6","8"],"answer_index":2,"hint":"上下前后左右"},
+      {"id":"s01_q02","type":"CHOICE","text":"把一张正方形纸对折两次，打开后有几个格子？","image_res":null,"options":["2","3","4","6"],"answer_index":2,"hint":"每折一次翻倍"},
+      {"id":"s01_q03","type":"CHOICE","text":"时钟上3点整，时针和分针成什么角？","image_res":null,"options":["直角","钝角","锐角","平角"],"answer_index":0,"hint":"3到12是90°"},
+      {"id":"s01_q04","type":"CHOICE","text":"从左数第3个，从右数是第几个？共7个。","image_res":null,"options":["3","4","5","6"],"answer_index":2,"hint":"7-3+1=?"},
+      {"id":"s01_q05","type":"CHOICE","text":"一个正方形被对角线分成几个三角形？","image_res":null,"options":["2","3","4","6"],"answer_index":0,"hint":"画一条对角线试试"}
+    ]}],
+    "PATTERN": [{"level_id": "pattern_01", "questions": [
+      {"id":"p01_q01","type":"CHOICE","text":"1, 4, 9, 16, 25, ___","image_res":null,"options":["30","36","49","64"],"answer_index":1,"hint":"1²,2²,3²..."},
+      {"id":"p01_q02","type":"CHOICE","text":"3, 6, 12, 24, ___","image_res":null,"options":["36","42","48","56"],"answer_index":2,"hint":"每次乘以2"},
+      {"id":"p01_q03","type":"CHOICE","text":"1+2=3, 2+3=5, 3+4=7, 4+5=?","image_res":null,"options":["8","9","10","11"],"answer_index":1,"hint":"相邻两数相加"},
+      {"id":"p01_q04","type":"CHOICE","text":"AABBAABB中，第10个字母是？","image_res":null,"options":["A","B","A或B","无法判断"],"answer_index":1,"hint":"4个一循环，10÷4余2"},
+      {"id":"p01_q05","type":"CHOICE","text":"2, 5, 10, 17, ___","image_res":null,"options":["24","25","26","27"],"answer_index":2,"hint":"差值依次是3,5,7,9"}
+    ]}],
+    "CREATIVE": [{"level_id": "creative_01", "questions": [
+      {"id":"c01_q01","type":"CHOICE","text":"如果你能发明一种新颜色，你会叫它什么？","image_res":null,"options":["紫蓝绿","天空粉","彩虹灰","星星金"],"answer_index":3,"hint":"没有标准答案，选最有创意的"},
+      {"id":"c01_q02","type":"CHOICE","text":"怎么让一首歌变得更有趣？","image_res":null,"options":["唱快一倍","加入动物叫声","只哼旋律","大声唱"],"answer_index":1,"hint":"想想最特别的方式"},
+      {"id":"c01_q03","type":"CHOICE","text":"用10根火柴可以搭几个正方形？","image_res":null,"options":["1个","2个","3个","取决于搭法"],"answer_index":3,"hint":"不同搭法共用边数不同"},
+      {"id":"c01_q04","type":"CHOICE","text":"学校没有铃声了，用什么代替最有创意？","image_res":null,"options":["老师喊","鸟叫声广播","手机闹钟","跺脚"],"answer_index":1,"hint":"想想有趣又自然的声音"},
+      {"id":"c01_q05","type":"CHOICE","text":"把两个不同的故事结合，最有趣的是？","image_res":null,"options":["白雪公主+西游记","灰姑娘+灰姑娘","小红帽+小红帽","三只小猪+三只小猪"],"answer_index":0,"hint":"不同元素碰撞才有创意"}
+    ]}]
+  }
+}

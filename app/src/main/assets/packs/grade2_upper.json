@@ -1,0 +1,12 @@
+{
+  "pack_id": "grade2_upper",
+  "grade": 2,
+  "is_upper": true,
+  "dimensions": {
+    "MATH":    [{"level_id":"math_01","questions":[{"id":"placeholder","type":"CHOICE","text":"（即将推出）","image_res":null,"options":["A","B","C","D"],"answer_index":0,"hint":""}]}],
+    "LOGIC":   [{"level_id":"logic_01","questions":[{"id":"placeholder","type":"CHOICE","text":"（即将推出）","image_res":null,"options":["A","B","C","D"],"answer_index":0,"hint":""}]}],
+    "SPATIAL": [{"level_id":"spatial_01","questions":[{"id":"placeholder","type":"CHOICE","text":"（即将推出）","image_res":null,"options":["A","B","C","D"],"answer_index":0,"hint":""}]}],
+    "PATTERN": [{"level_id":"pattern_01","questions":[{"id":"placeholder","type":"CHOICE","text":"（即将推出）","image_res":null,"options":["A","B","C","D"],"answer_index":0,"hint":""}]}],
+    "CREATIVE":[{"level_id":"creative_01","questions":[{"id":"placeholder","type":"CHOICE","text":"（即将推出）","image_res":null,"options":["A","B","C","D"],"answer_index":0,"hint":""}]}]
+  }
+}

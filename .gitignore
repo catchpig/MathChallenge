@@ -1,0 +1,38 @@
+# 构建输出
+build/
+app/build/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# 本地配置（包含SDK路径，不应提交）
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.DS_Store
+*.hprof
+
+# 签名文件
+*.jks
+*.keystore
+
+# APK / AAB 产物
+*.apk
+*.aab
+*.ap_
+
+# 日志
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# Claude Code 本地配置
+.claude/
+.superpowers/

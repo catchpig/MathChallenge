@@ -1,0 +1,42 @@
+{
+  "pack_id": "grade1_upper",
+  "grade": 1,
+  "is_upper": true,
+  "dimensions": {
+    "MATH": [{"level_id": "math_01", "questions": [
+      {"id":"m01_q01","type":"CHOICE","text":"小美有🌸24朵樱花，送给朋友8朵，还剩几朵？","image_res":null,"options":["14","16","18","32"],"answer_index":1,"hint":"24 - 8 = ?"},
+      {"id":"m01_q02","type":"CHOICE","text":"树上有5只小鸟，又飞来3只，一共有几只？","image_res":null,"options":["6","7","8","9"],"answer_index":2,"hint":"5 + 3 = ?"},
+      {"id":"m01_q03","type":"CHOICE","text":"一共有10颗糖，吃了4颗，还剩几颗？","image_res":null,"options":["4","5","6","7"],"answer_index":2,"hint":"10 - 4 = ?"},
+      {"id":"m01_q04","type":"CHOICE","text":"3+7等于几？","image_res":null,"options":["9","10","11","12"],"answer_index":1,"hint":"数一数：3往后数7个"},
+      {"id":"m01_q05","type":"CHOICE","text":"小猫有6条鱼，小狗有2条鱼，小猫比小狗多几条？","image_res":null,"options":["2","3","4","5"],"answer_index":2,"hint":"6 - 2 = ?"}
+    ]}],
+    "LOGIC": [{"level_id": "logic_01", "questions": [
+      {"id":"l01_q01","type":"CHOICE","text":"苹果比香蕉重，香蕉比葡萄重，那么最重的是？","image_res":null,"options":["香蕉","葡萄","苹果","一样重"],"answer_index":2,"hint":"比较一下谁最大"},
+      {"id":"l01_q02","type":"CHOICE","text":"今天是星期三，明天是星期几？","image_res":null,"options":["星期二","星期三","星期四","星期五"],"answer_index":2,"hint":"往后数一天"},
+      {"id":"l01_q03","type":"CHOICE","text":"红球在蓝球左边，蓝球在黄球左边，哪个球在最右边？","image_res":null,"options":["红球","蓝球","黄球","一样"],"answer_index":2,"hint":"想象一排球的顺序"},
+      {"id":"l01_q04","type":"CHOICE","text":"小明比小红高，小红比小亮高，谁最矮？","image_res":null,"options":["小明","小红","小亮","一样高"],"answer_index":2,"hint":"找最后一个"},
+      {"id":"l01_q05","type":"CHOICE","text":"如果下雨了，地面会湿。地面是湿的，可能是因为？","image_res":null,"options":["天气很热","下雨了","刮风了","有彩虹"],"answer_index":1,"hint":"想想地面湿的原因"}
+    ]}],
+    "SPATIAL": [{"level_id": "spatial_01", "questions": [
+      {"id":"s01_q01","type":"CHOICE","text":"一个正方形有几个角？","image_res":null,"options":["3","4","5","6"],"answer_index":1,"hint":"数一数正方形的角"},
+      {"id":"s01_q02","type":"CHOICE","text":"哪个形状像球一样圆？","image_res":null,"options":["正方形","三角形","圆形","长方形"],"answer_index":2,"hint":"找圆圆的形状"},
+      {"id":"s01_q03","type":"CHOICE","text":"从上面看一个圆柱，看到的是什么形状？","image_res":null,"options":["长方形","三角形","圆形","正方形"],"answer_index":2,"hint":"想象从正上方往下看"},
+      {"id":"s01_q04","type":"CHOICE","text":"小明站在房子的北面，房子在小明的哪个方向？","image_res":null,"options":["东","西","南","北"],"answer_index":2,"hint":"方向是相对的"},
+      {"id":"s01_q05","type":"CHOICE","text":"三角形有几条边？","image_res":null,"options":["2","3","4","5"],"answer_index":1,"hint":"数一数三角形的边"}
+    ]}],
+    "PATTERN": [{"level_id": "pattern_01", "questions": [
+      {"id":"p01_q01","type":"CHOICE","text":"2, 4, 6, 8, ___，下一个数是？","image_res":null,"options":["9","10","11","12"],"answer_index":1,"hint":"每次加2"},
+      {"id":"p01_q02","type":"CHOICE","text":"🌸🌟🌸🌟🌸___，下一个是？","image_res":null,"options":["🌸","🌟","🎀","💫"],"answer_index":1,"hint":"找规律：两个交替出现"},
+      {"id":"p01_q03","type":"CHOICE","text":"1, 3, 5, 7, ___，下一个数是？","image_res":null,"options":["8","9","10","11"],"answer_index":1,"hint":"每次加2，都是奇数"},
+      {"id":"p01_q04","type":"CHOICE","text":"🔴🔵🔴🔵🔴___","image_res":null,"options":["🔴","🔵","🟡","🟢"],"answer_index":1,"hint":"红蓝交替"},
+      {"id":"p01_q05","type":"CHOICE","text":"10, 20, 30, ___，下一个是？","image_res":null,"options":["35","38","40","50"],"answer_index":2,"hint":"每次加10"}
+    ]}],
+    "CREATIVE": [{"level_id": "creative_01", "questions": [
+      {"id":"c01_q01","type":"CHOICE","text":"一块橡皮可以有哪些用途？选出最有创意的答案！","image_res":null,"options":["擦铅笔字","当积木搭房子","放进铅笔盒","扔掉"],"answer_index":1,"hint":"想想不一样的用法"},
+      {"id":"c01_q02","type":"CHOICE","text":"如果你有一双翅膀，你最想做什么？","image_res":null,"options":["飞到彩虹上","待在家里","去超市","睡觉"],"answer_index":0,"hint":"大胆想象，没有标准答案"},
+      {"id":"c01_q03","type":"CHOICE","text":"用什么方法能让小朋友记住自己的名字？选最特别的！","image_res":null,"options":["大声说名字","画一幅和名字有关的画","写在纸上","什么都不做"],"answer_index":1,"hint":"想想最有趣的方式"},
+      {"id":"c01_q04","type":"CHOICE","text":"如果水变成果汁，你最希望变成什么味道？","image_res":null,"options":["草莓味","普通水","没味道","苦的"],"answer_index":0,"hint":"选你最喜欢的"},
+      {"id":"c01_q05","type":"CHOICE","text":"圆圈可以变成什么？选最有创意的！","image_res":null,"options":["什么都不是","太阳🌞","点","圆圈"],"answer_index":1,"hint":"发挥想象力"}
+    ]}]
+  }
+}
